@@ -97,5 +97,5 @@ I schedule this script to run every 15 minutes on Windows Task Scheduler.
 
 ## TODO <a name = "todo"></a>
 
-[] Build Tableau Dashboard
-[] Move R library from `googlesheets` (https://github.com/jennybc/googlesheets) to `googlesheets4` (https://googlesheets4.tidyverse.org/) or `googledrive` (https://googledrive.tidyverse.org/)
+- [ ] Build Tableau Dashboard
+- [ ] Move R library from `googlesheets` (https://github.com/jennybc/googlesheets) to `googlesheets4` (https://googlesheets4.tidyverse.org/) or `googledrive` (https://googledrive.tidyverse.org/)
